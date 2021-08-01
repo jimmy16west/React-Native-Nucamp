@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "shared",
+			"path": "../shared"
+		},
+		{
+			"name": "nucampsite",
+			"path": "../../NucampFolder/ 4-React-Native.nosync/nucampsite"
+		},
+		{
+			"name": "redux",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
