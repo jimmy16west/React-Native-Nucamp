@@ -194,11 +194,10 @@ const CustomDrawerContentComponent = (props) => (
       style={styles.container}
       forceInset={{ top: "always", horizontal: "never" }}
     >
-      
       <View style={styles.drawerHeader}>
         <View style={{ flex: 1 }}>
           <Image
-            source={require('./image/logo.png')}
+            source={require('./images/logo.png')}
             style={styles.drawerImage}
           />
         </View>
